@@ -1,6 +1,6 @@
 # instagram-fake
 
-## Downloand
+## Download
 
 ```
 git clone https://github.com/linder3hs/instagram-fake
