@@ -1,5 +1,13 @@
 # instagram-fake
 
+## Downloand
+
+```
+git clone https://github.com/linder3hs/instagram-fake
+```
+
+and leave your star in the project
+
 Clone of instagram 
 
 Light mode
